@@ -1,4 +1,4 @@
-# playing_with_google_maps
+# google_maps
 
 A new Flutter project.
 
